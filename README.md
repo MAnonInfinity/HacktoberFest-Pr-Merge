@@ -12,9 +12,8 @@ The main objective of this repository is to support both novice and seasoned con
 4. It is requested to all contributors to add notes from recommended books or guides from the creator of the language but not from some online websites.
 5. It should noted that the features removed in a language should also be added in notes to give a clear guide for the user. 
 6. If you have a unique solution to a problem add your linkedinid and github in the end of the page by creating a credit section or commenting your name in the code .
-7. If you have a unique solution to a problem add your linkedinid and github in the end of the page by creating a credit section or commenting your name in the code .
-8. Legit issue raiser and pull requester with proper **`README`** in there profiles have greater chances for merging there pull request to `main` branch.
-9. Raise an issue even if you are not sure about issue , if found legit we will contact you soon and try to fix the issue to.
+7. Legit issue raiser and pull requester with proper **`README`** in there profiles have greater chances for merging there pull request to `main` branch.
+8. Raise an issue even if you are not sure about issue , if found legit we will contact you soon and try to fix the issue to.
 Submit proper, quality solutions to CodeChef contests in this Repository
 
 ## 🔍How to Contribute
