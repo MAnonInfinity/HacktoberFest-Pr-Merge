@@ -1,0 +1,39 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+	clrscr();
+	int ram;
+	printf("Enter The Age Of Ram:");
+	scanf("%d",&ram);
+
+	int shayam;
+	printf("Enter The Age Of Shayam:");
+	scanf("%d",&shayam);
+
+	int ajay;
+	printf("Enter The Age Of Ajay:");
+	scanf("%d",&ajay);
+
+	if(ram>ajay)
+	{
+		if(shayam>ajay)
+		{
+			printf("Ajay Is Youngest");
+		}
+		else
+		{
+			printf("Shayam Is Youngest");
+		}
+	}
+	else if(ajay>ram)
+	{
+		printf("Ram Is Youngest");
+	}
+	else
+	{
+		printf("Ajay Is Youngest");
+	}
+	getch();
+	return 0;
+}
